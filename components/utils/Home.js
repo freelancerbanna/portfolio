@@ -123,7 +123,7 @@ const Home = () => {
           </div>
           <div className="contentBox">
             <h2>Ui/Ux</h2>
-            <p>Designing is the passion to declare performance</p>
+            <p>Passion to declare the performance</p>
           </div>
         </div>
 
