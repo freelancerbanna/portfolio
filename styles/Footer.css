@@ -1,0 +1,27 @@
+footer{
+  background: var(--second-color);
+  color: #fff;
+  text-align: center;
+  font-weight: var(--font-semi);
+  padding: 2rem 0;
+}
+.footer_title{
+  font-size: 2rem;
+  margin-top: var(--mb-2);
+  margin-bottom: var(--mb-4);
+}
+.footerSocial{
+margin-bottom: var(--mb-2);
+}
+.footerSocial a{
+  font-size: 1.5rem;
+  color: #fff;
+  margin: 0 var(--mb-2);
+}
+.footerSocial a:hover{
+  color: var(--first-color);
+  transition: all 0.3s ease-in-out;
+}
+.copyRight{
+  font-family: "Poppins";
+}
